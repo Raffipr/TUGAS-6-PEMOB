@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "tugas6_taufikurahman_mobile" "\0"
+            VALUE "FileDescription", "tugas6_raffi" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "tugas6_taufikurahman_mobile" "\0"
+            VALUE "InternalName", "tugas6_raffi" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "tugas6_taufikurahman_mobile.exe" "\0"
-            VALUE "ProductName", "tugas6_taufikurahman_mobile" "\0"
+            VALUE "OriginalFilename", "tugas6_raffi.exe" "\0"
+            VALUE "ProductName", "tugas6_raffi" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
